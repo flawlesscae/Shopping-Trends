@@ -20,6 +20,7 @@ This repository documents my findings from a dataset of shopping trends, focusin
 
 ### Overview
 ---
+This repository contains a detailed analysis of shopping trends for essential consumer items across 50 locations, offering actionable insights for businesses. The dataset, encompassing sales data and customer demographics, was analyzed to identify regional market opportunities, consumer preferences, and potential areas for targeted marketing. The analysis uses statistical methods and data visualizations to present clear and concise findings, designed to inform strategic business decisions.
 
 ### Objectives
 ---
