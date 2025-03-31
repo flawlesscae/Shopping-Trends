@@ -1,5 +1,5 @@
 # Shopping-Trends
-This repository details my findings from a dataset of the shopping trends for basic item categories gathered across 50 locations.
+This repository documents my findings from a dataset of shopping trends, focusing on core consumer item categories (e.g., groceries, household essentials, basic apparel). The data, collected across 50 distinct locations, was analyzed using a combination of statistical methods, including descriptive statistics, correlation analysis, and comparative analysis. Visualizations, created using Power BI, are included to illustrate key trends and regional differences. The repository aims to provide a clear understanding of consumer purchasing behaviors and identify potential regional market variations.
 
 ## Shopping Trends Analysis
 ## Outline
