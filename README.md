@@ -1,9 +1,40 @@
 # Shopping-Trends
-This repository details my findings from a dataset of the shopping trends for basic item categories gathered across 50 locations
+This repository details my findings from a dataset of the shopping trends for basic item categories gathered across 50 locations.
+
+## Shopping Trends Analysis
+## Outline
+[Overview](#overview)
+
+[Objectives](#objectives)
+
+[Data Collected](#data-collected)
+
+[Analysis, Visualization and Inference](#analysis-visualization-and-inference)
+
+[Analysis](#Analysis)
+
+[Visualization](#Visualization)
+
+[Inference](#Inference)
 
 
+### Overview
+---
 
+### Objectives
+---
 
+### Data Collected
+---
+**Excerpts of the data provided:**
+
+## Analysis, Visualization and Inference
+### Analysis
+---
+insert pivot tables
+
+### Visualization
+---
 ![ST General 1](https://github.com/user-attachments/assets/aa3f25b5-ea33-43f7-8b11-b607280a81b1)
 
 ![ST General 2](https://github.com/user-attachments/assets/2645f401-300c-4798-b589-e71b9b011d03)
@@ -15,3 +46,7 @@ This repository details my findings from a dataset of the shopping trends for ba
 ![ST Male 1](https://github.com/user-attachments/assets/e26185a6-5974-4fea-89f3-b817713517ec)
 
 ![ST Male 2](https://github.com/user-attachments/assets/31b96720-8a2f-436b-a0b8-3ddc62421e29)
+
+
+### Inference
+---
